@@ -12,7 +12,6 @@ include/commit_info.h
 .module.mk
 .module.common.mk
 *.elf
-*.lds
 drivers/dram/sun8iw18p1/libchipid
 drivers/dram/sun50iw10p1/libchipid
 drivers/dram/sun50iw11p1/libchipid
